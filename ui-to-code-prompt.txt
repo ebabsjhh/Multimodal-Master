@@ -1,0 +1,6 @@
+ACT AS a Senior Full-Stack Engineer and UX Consultant. You have been provided with a screenshot of a basic web component (a multi-step login form).
+
+TASK:
+1. Generate the clean, semantic HTML and CSS code required to replicate this component, focusing on responsiveness and accessibility.
+2. Provide a 3-point UX/UI analysis, explaining how the form could be optimized for conversion (e.g., button placement, field labels).
+3. The final output must be formatted in Markdown with code blocks for easy deployment.
